@@ -1,9 +1,10 @@
-# 关于inception-django-web-frame
-
+关于inception-django-web-frame
+====
 使用djangon+metro_dashboard框架开发的一个页面，主要解决inception 没有web前端的问题
 inception地址： https://github.com/mysql-inception/inception
 metro地址： https://github.com/jiji262/Bootstrap_Metro_Dashboard
 ＃安装方法：
+-----
 pip install Django==1.8.4
 mysql-python 1.2.5
 https://pypi.python.org/pypi/mysql-python/1.2.5#downloads
@@ -21,6 +22,7 @@ http://127.0.0.1:8000/dbaproject/inception.html/
 
 
 ＃联系方式
+----
 635767825@qq.com
 
 
